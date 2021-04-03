@@ -5,14 +5,16 @@ public class Main {
 
         var dm = new DataManager();
 
-     /*   method to load-read json file
+
+     //method to load-read json file
         var recipes = dm.load();
         for (Recipe recipe :  recipes) {
             System.out.println(recipe);
         }
-        */
 
-        dm.loadRecipesIntoDb();
+
+
+//        dm.loadRecipesIntoDb();
 
     }
 }

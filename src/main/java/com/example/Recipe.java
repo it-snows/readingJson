@@ -20,8 +20,8 @@ public class Recipe {
     private int totalTime;
     private int numberOfServings;
     // works with String List
-    private String [] ingredients;
-//    private List<Ingredient> ingredients = new ArrayList<>();
+//    private String [] ingredients;
+    private List<Ingredient> ingredients = new ArrayList<>();
     private String instructions;
     private String pictureLink;
 }
