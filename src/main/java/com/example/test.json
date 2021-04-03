@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "title": "test pancakes",
+    "course": "snack",
+    "totalTime": 30,
+    "numberOfServings": 4,
+    "ingredients": [
+      {
+        "id": 0,
+        "recipeId": 0,
+        "ingredient": "eggs"
+      },
+      {
+        "id": 0,
+        "recipeId": 0,
+        "ingredient": "milk"
+      },
+      {
+        "id": 0,
+        "recipeId": 0,
+        "ingredient": "sugar"
+      },
+      {
+        "id": 0,
+        "recipeId": 0,
+        "ingredient": "oil"
+      }
+    ],
+    "instructions": "Mix exverything and do the baking",
+    "pictureLink": "src/com/images"
+  }
+]
